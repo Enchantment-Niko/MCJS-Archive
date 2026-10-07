@@ -2514,3 +2514,674 @@ translation.test.invalid=% 你好
 translation.test.invalid2=%s 你好
 translation.test.none=你好，世界！
 translation.test.world=世界
+
+eaglercraft.resourcePack.prompt.title=你对“%s”想做什么？
+eaglercraft.resourcePack.prompt.text=提示：在选择资源包时按住 Shift 键可跳过此屏幕！
+eaglercraft.resourcePack.prompt.delete=删除此资源包
+eaglercraft.resourcePack.prompt.add=选择此资源包
+eaglercraft.resourcePack.load.refreshing=正在刷新资源...
+eaglercraft.resourcePack.load.pleaseWait=请稍候...
+eaglercraft.resourcePack.load.loading=正在加载资源包...
+eaglercraft.resourcePack.load.deleting=正在删除资源包...
+
+eaglercraft.gui.exitKey=使用“%s”关闭此屏幕！
+eaglercraft.gui.exitKeyRetarded=使用反引号 (`) 关闭此屏幕！
+eaglercraft.gui.continue=继续
+
+eaglercraft.menu.forkOnGitlab=在 GitLab 上复刻
+eaglercraft.menu.editProfile=编辑资料
+eaglercraft.menu.openToLan=邀请
+eaglercraft.menu.closeLan=停止共享
+
+eaglercraft.editProfile.title=编辑资料
+eaglercraft.editProfile.username=用户名
+eaglercraft.editProfile.playerSkin=玩家皮肤
+eaglercraft.editProfile.addSkin=添加皮肤
+eaglercraft.editProfile.clearSkin=清空列表
+eaglercraft.editProfile.capes=披风
+eaglercraft.editProfile.disableFNAW= (注意：请前往“选项...”>“皮肤自定义”以禁用 FNAW 皮肤) 
+eaglercraft.editProfile.enableFNAW= (注意：请前往“选项...”>“皮肤自定义”以启用 FNAW 皮肤) 
+
+eaglercraft.editCape.title=编辑披风
+eaglercraft.editCape.playerCape=玩家披风
+eaglercraft.editCape.addCape=添加披风
+eaglercraft.editCape.clearCape=清空列表
+
+eaglercraft.editProfile.importExport=导入/导出
+
+eaglercraft.defaultUsernameDetected.title=检测到默认用户名
+eaglercraft.defaultUsernameDetected.text0=用户名“%s”是由 Eaglercraft 自动生成的
+eaglercraft.defaultUsernameDetected.text1=该用户名在大型服务器上可能已被占用
+eaglercraft.defaultUsernameDetected.text2=您想改选一个不同的用户名吗？
+eaglercraft.defaultUsernameDetected.changeUsername=更改用户名
+eaglercraft.defaultUsernameDetected.continueAnyway=继续
+eaglercraft.defaultUsernameDetected.doNotShow=不再显示
+
+eaglercraft.settingsBackup.importExport.title=你想做什么？
+eaglercraft.settingsBackup.importExport.import=导入资料和设置...
+eaglercraft.settingsBackup.importExport.export=导出资料和设置...
+
+eaglercraft.settingsBackup.import.title=导入资料和设置
+eaglercraft.settingsBackup.import.option.profile=导入资料：
+eaglercraft.settingsBackup.import.option.settings=导入设置：
+eaglercraft.settingsBackup.import.option.servers=导入服务器：
+eaglercraft.settingsBackup.import.option.resourcePacks=导入资源包：
+eaglercraft.settingsBackup.import.option.import=导入
+
+eaglercraft.settingsBackup.export.title=导出资料和设置
+eaglercraft.settingsBackup.export.option.profile=导出资料：
+eaglercraft.settingsBackup.export.option.settings=导出设置：
+eaglercraft.settingsBackup.export.option.servers=导出服务器：
+eaglercraft.settingsBackup.export.option.resourcePacks=导出资源包：
+eaglercraft.settingsBackup.export.option.export=导出
+
+eaglercraft.settingsBackup.exporting.1=正在导出资料...
+eaglercraft.settingsBackup.exporting.2=请稍候...
+
+eaglercraft.settingsBackup.exporting.failed.1=导出失败！
+eaglercraft.settingsBackup.exporting.failed.2=无法编译 EPK 文件
+
+eaglercraft.settingsBackup.importing.1=正在导入资料...
+eaglercraft.settingsBackup.importing.2=请稍候...
+
+eaglercraft.settingsBackup.importing.failed.1=导入失败！
+eaglercraft.settingsBackup.importing.failed.2=无法加载 EPK 文件
+
+eaglercraft.resourcePack.importFailed.1=导入失败！
+eaglercraft.resourcePack.importFailed.2=无法导入 ZIP 文件
+
+eaglercraft.singleplayer.integratedStartup=正在启动内置服务器
+
+eaglercraft.addServer.SSLWarn1=您当前在 https: 页面上！
+eaglercraft.addServer.SSLWarn2=HTML5 将只允许 wss:// 连接
+
+eaglercraft.chat.exit=退出聊天
+
+eaglercraft.handshakeApprove.plaintext.title=协议警告
+
+eaglercraft.handshakeApprove.plaintext.body.0=§e该服务器的第三方登录系统
+eaglercraft.handshakeApprove.plaintext.body.1=§e正在使用不安全的明文密码登录
+
+eaglercraft.handshakeApprove.plaintext.body.3=这意味着您的密码可能被
+eaglercraft.handshakeApprove.plaintext.body.4=该服务器的运营者以及您用于连接的
+eaglercraft.handshakeApprove.plaintext.body.5=任何代理窃取
+
+eaglercraft.handshakeApprove.plaintext.body.7=§7是否继续？
+
+eaglercraft.handshakeApprove.unsupportedAuth.title=不支持的协议
+
+eaglercraft.handshakeApprove.unsupportedAuth.body.0=§c该服务器的登录系统使用的协议
+eaglercraft.handshakeApprove.unsupportedAuth.body.1=§c不受此客户端支持
+
+eaglercraft.handshakeApprove.unsupportedAuth.body.3=请确保您使用的是最新版本的
+eaglercraft.handshakeApprove.unsupportedAuth.body.4=EaglercraftX 或为此服务器
+eaglercraft.handshakeApprove.unsupportedAuth.body.5=制作的其他分支版本
+
+eaglercraft.options.hud.fps=显示 FPS
+eaglercraft.options.hud.coords=显示坐标
+eaglercraft.options.hud.stats=显示状态 HUD
+eaglercraft.options.hud.world=显示世界 HUD
+eaglercraft.options.hud.player=显示玩家
+eaglercraft.options.hud.note=查看“视频设置”以找到隐藏坐标的选项
+eaglercraft.options.hud.24h=24 小时制
+eaglercraft.options.chunkFix=区块卡顿修复
+eaglercraft.options.fog=雾效
+eaglercraft.options.fxaa=FXAA 抗锯齿
+eaglercraft.options.fxaa.auto=自动
+eaglercraft.options.fastMath=快速运算
+eaglercraft.options.fastMath.0=关
+eaglercraft.options.fastMath.1=低
+eaglercraft.options.fastMath.2=高
+eaglercraft.options.dynamicLights=动态光源
+
+eaglercraft.key.function=功能
+eaglercraft.key.zoomCamera=缩放视角
+eaglercraft.key.close=关闭屏幕
+
+eaglercraft.disconnect.tooManyRequests=请求过多！
+
+eaglercraft.auth.required=需要身份验证
+eaglercraft.auth.continue=加入服务器
+
+eaglercraft.shaders.gui.optionsButton=光影...
+eaglercraft.shaders.gui.title=光影
+eaglercraft.shaders.gui.enable=启用光影
+eaglercraft.shaders.gui.headerTier1=简单效果 (快速) 
+eaglercraft.shaders.gui.headerTier2=中级效果 (较慢) 
+
+
+eaglercraft.shaders.gui.option.WAVING_BLOCKS.label=摇曳的草丛
+
+eaglercraft.shaders.gui.option.WAVING_BLOCKS.desc.0=经典的原版光影，让草丛和树叶随风摆动
+eaglercraft.shaders.gui.option.WAVING_BLOCKS.desc.2=开：较慢，复杂的控制流
+eaglercraft.shaders.gui.option.WAVING_BLOCKS.desc.3=关：较快，简单的控制流
+
+eaglercraft.shaders.gui.option.DYNAMIC_LIGHTS.label=动态光源
+
+eaglercraft.shaders.gui.option.DYNAMIC_LIGHTS.desc.0=当手持或掉落火把、荧石、南瓜灯等物品时，它们会照亮周围区域
+eaglercraft.shaders.gui.option.DYNAMIC_LIGHTS.desc.2=此功能通常不会影响 FPS，除非玩家附近有大量动态光源
+eaglercraft.shaders.gui.option.DYNAMIC_LIGHTS.desc.4=开：启用动态光源
+eaglercraft.shaders.gui.option.DYNAMIC_LIGHTS.desc.5=关：禁用动态光源
+
+eaglercraft.shaders.gui.option.GLOBAL_AMBIENT_OCCLUSION.label=全局 SSAO (环境光遮蔽) 
+
+eaglercraft.shaders.gui.option.GLOBAL_AMBIENT_OCCLUSION.desc.0=对屏幕区域应用逼真的屏幕空间环境光遮蔽 (SSAO) ，弥补原版 Minecraft 默认“平滑光照”功能的不足
+eaglercraft.shaders.gui.option.GLOBAL_AMBIENT_OCCLUSION.desc.2=此效果可以极大地减少由区块更新引起的卡顿，代价是静止时的最大 FPS 会降低
+eaglercraft.shaders.gui.option.GLOBAL_AMBIENT_OCCLUSION.desc.4=开：使用 SSAO
+eaglercraft.shaders.gui.option.GLOBAL_AMBIENT_OCCLUSION.desc.5=关：使用原版光照
+
+eaglercraft.shaders.gui.option.SHADOWS_SUN.label=太阳阴影距离
+
+eaglercraft.shaders.gui.option.SHADOWS_SUN.desc.0=让太阳和月亮在世界中投下阴影，您几乎肯定想要启用此功能
+eaglercraft.shaders.gui.option.SHADOWS_SUN.desc.2=0：关
+eaglercraft.shaders.gui.option.SHADOWS_SUN.desc.3=1：16 格
+eaglercraft.shaders.gui.option.SHADOWS_SUN.desc.4=2：32 格
+eaglercraft.shaders.gui.option.SHADOWS_SUN.desc.5=3：64 格
+eaglercraft.shaders.gui.option.SHADOWS_SUN.desc.6=4：128 格
+
+eaglercraft.shaders.gui.option.SHADOWS_COLORED.label=彩色阴影
+
+eaglercraft.shaders.gui.option.SHADOWS_COLORED.desc.0=让染色玻璃等方块投射彩色阴影
+eaglercraft.shaders.gui.option.SHADOWS_COLORED.desc.2=开：彩色阴影 (较慢) 
+eaglercraft.shaders.gui.option.SHADOWS_COLORED.desc.3=关：灰度阴影 (较快) 
+
+eaglercraft.shaders.gui.option.SHADOWS_SMOOTHED.label=平滑阴影
+
+eaglercraft.shaders.gui.option.SHADOWS_SMOOTHED.desc.0=平滑太阳光和动态光源阴影的边缘，以消除锯齿
+eaglercraft.shaders.gui.option.SHADOWS_SMOOTHED.desc.2=开：平滑阴影 (较慢) 
+eaglercraft.shaders.gui.option.SHADOWS_SMOOTHED.desc.3=关：锯齿阴影 (较快) 
+
+eaglercraft.shaders.gui.option.REFLECTIONS_PARABOLOID.label=环境贴图
+
+eaglercraft.shaders.gui.option.REFLECTIONS_PARABOLOID.desc.0=渲染环境贴图，允许透明方块和移动的实体反射周围环境
+eaglercraft.shaders.gui.option.REFLECTIONS_PARABOLOID.desc.2=使用双抛物面贴图，只需要 2 次渲染通道即可渲染所有反射，而不是传统立方体贴图所需的 6 次渲染通道
+eaglercraft.shaders.gui.option.REFLECTIONS_PARABOLOID.desc.4=开：渲染环境贴图 (较慢) 
+eaglercraft.shaders.gui.option.REFLECTIONS_PARABOLOID.desc.5=关：禁用环境贴图 (较快) 
+
+eaglercraft.shaders.gui.option.REALISTIC_WATER.label=逼真水效果
+
+eaglercraft.shaders.gui.option.REALISTIC_WATER.desc.0=让水变得逼真，添加反射和折射效果，使用光线追踪
+eaglercraft.shaders.gui.option.REALISTIC_WATER.desc.2=开：渲染逼真水效果 (较慢) 
+eaglercraft.shaders.gui.option.REALISTIC_WATER.desc.3=关：渲染原版水效果 (较快) 
+
+eaglercraft.shaders.gui.option.LIGHT_SHAFTS.label=上帝光
+
+eaglercraft.shaders.gui.option.LIGHT_SHAFTS.desc.0=为太阳光和月光阴影渲染上帝光 (光柱) 
+eaglercraft.shaders.gui.option.LIGHT_SHAFTS.desc.2=如果渲染距离大于阴影贴图大小，此光影效果可能看起来不太理想
+eaglercraft.shaders.gui.option.LIGHT_SHAFTS.desc.4=开：渲染上帝光 (较慢) 
+eaglercraft.shaders.gui.option.LIGHT_SHAFTS.desc.5=关：禁用上帝光 (较快) 
+
+eaglercraft.shaders.gui.option.SCREEN_SPACE_REFLECTIONS.label=光线追踪
+
+eaglercraft.shaders.gui.option.SCREEN_SPACE_REFLECTIONS.desc.0=渲染方块的光线追踪反射
+eaglercraft.shaders.gui.option.SCREEN_SPACE_REFLECTIONS.desc.2=得益于一些高级优化，此功能对 FPS 的影响较小，并且兼容旧硬件
+eaglercraft.shaders.gui.option.SCREEN_SPACE_REFLECTIONS.desc.4=同时采用了光线步进和光线追踪技术。首先使用光线步进来定位和追踪屏幕上的像素组以进行反射，然后使用光线追踪在多个帧之间重新投影这些数据，因此光线步进过程只需每隔几秒重复一两次
+eaglercraft.shaders.gui.option.SCREEN_SPACE_REFLECTIONS.desc.6=开：启用光线追踪 (较慢) 
+eaglercraft.shaders.gui.option.SCREEN_SPACE_REFLECTIONS.desc.7=关：禁用光线追踪 (较快) 
+
+eaglercraft.shaders.gui.option.POST_LENS_DISTORION.label=镜头畸变
+
+eaglercraft.shaders.gui.option.POST_LENS_DISTORION.desc.0=渲染色差和镜头畸变效果
+eaglercraft.shaders.gui.option.POST_LENS_DISTORION.desc.2=开：渲染镜头畸变 (较慢) 
+eaglercraft.shaders.gui.option.POST_LENS_DISTORION.desc.3=关：禁用镜头畸变 (较快) 
+
+eaglercraft.shaders.gui.option.POST_LENS_FLARES.label=镜头光晕
+
+eaglercraft.shaders.gui.option.POST_LENS_FLARES.desc.0=为太阳渲染胶片般的镜头光晕
+eaglercraft.shaders.gui.option.POST_LENS_FLARES.desc.2=开：渲染镜头光晕 (较慢) 
+eaglercraft.shaders.gui.option.POST_LENS_FLARES.desc.3=关：禁用镜头光晕 (较快) 
+
+eaglercraft.shaders.gui.option.POST_BLOOM.label=泛光
+
+eaglercraft.shaders.gui.option.POST_BLOOM.desc.0=为自发光纹理和阳光渲染泛光效果
+eaglercraft.shaders.gui.option.POST_BLOOM.desc.2=开：渲染泛光 (较慢) 
+eaglercraft.shaders.gui.option.POST_BLOOM.desc.3=关：禁用泛光 (较快) 
+
+eaglercraft.shaders.gui.option.POST_FXAA.label=FXAA
+
+eaglercraft.shaders.gui.option.POST_FXAA.desc.0=在后处理中应用 FXAA 抗锯齿
+eaglercraft.shaders.gui.option.POST_FXAA.desc.2=这是 Minecraft 首选的抗锯齿方法，因为传统的 MSAA 无法对放大后的纹理像素进行抗锯齿
+eaglercraft.shaders.gui.option.POST_FXAA.desc.4=开：启用 FXAA (较慢) 
+eaglercraft.shaders.gui.option.POST_FXAA.desc.5=关：禁用 FXAA (较快) 
+
+eaglercraft.shaders.gui.option.SUBSURFACE_SCATTERING.label=次表面散射
+
+eaglercraft.shaders.gui.option.SUBSURFACE_SCATTERING.desc.0=将次表面散射应用于阳光计算，需要启用阴影！
+eaglercraft.shaders.gui.option.SUBSURFACE_SCATTERING.desc.2=此效果主要用于草地和树叶方块，使它们在阳光下看起来更逼真，但它并非完全真实的物理模型
+eaglercraft.shaders.gui.option.SUBSURFACE_SCATTERING.desc.4=开：启用次表面散射 (较慢) 
+eaglercraft.shaders.gui.option.SUBSURFACE_SCATTERING.desc.5=关：禁用次表面散射 (较快) 
+
+eaglercraft.shaders.gui.unsupported.title=此设备不支持光影！
+eaglercraft.shaders.gui.unsupported.reason.hdrFramebuffer=原因：不支持 HDR 渲染目标
+eaglercraft.shaders.gui.unsupported.reason.oldOpenGLVersion=原因：不支持 OpenGL ES 3.0 (WebGL 2.0)！
+
+eaglercraft.shaders.debugMenuTip=按 %s+4 访问光影调试菜单
+
+eaglercraft.command.skull.tip=使用 /eagskull 创建自定义头颅
+eaglercraft.command.skull.usage=/eagskull
+eaglercraft.command.skull.nopermission=未启用作弊！
+eaglercraft.command.skull.feedback=已创建新头颅：“%s”
+eaglercraft.command.skull.error.invalid.format=无效或不支持的图片文件！
+eaglercraft.command.skull.error.invalid.skin=尺寸为 %dx%d 的图片不是有效的 Minecraft 皮肤！
+
+eaglercraft.command.clientStub=此命令是客户端的！
+
+eaglercraft.singleplayer.busy.killTask=取消任务
+eaglercraft.singleplayer.busy.cancelWarning=确定吗？
+eaglercraft.singleplayer.busy.confirmCancel=确认取消
+
+eaglercraft.singleplayer.crashed.title=从内置服务器收到崩溃报告！
+eaglercraft.singleplayer.crashed.checkConsole=查看控制台以获取更多详细信息
+eaglercraft.singleplayer.crashed.continue=继续
+eaglercraft.singleplayer.crashed.singleThreadCont=单线程模式
+
+eaglercraft.singleplayer.failed.title=单人游戏任务失败！
+eaglercraft.singleplayer.failed.killed=工作进程被终止
+eaglercraft.singleplayer.failed.notStarted=工作进程无法启动
+
+eaglercraft.singleplayer.failed.singleThreadWarning.1=检测到工作线程问题
+eaglercraft.singleplayer.failed.singleThreadWarning.2=内置服务器正在以单线程模式运行
+
+eaglercraft.singleplayer.busy.listingworlds=正在加载世界
+eaglercraft.singleplayer.failed.listingworlds=无法获取世界列表！
+
+eaglercraft.singleplayer.busy.deleting=正在删除世界
+eaglercraft.singleplayer.failed.deleting=删除世界失败！
+
+eaglercraft.singleplayer.busy.renaming=正在重命名世界
+eaglercraft.singleplayer.failed.renaming=重命名世界失败！
+
+eaglercraft.singleplayer.busy.duplicating=正在复制世界
+eaglercraft.singleplayer.failed.duplicating=复制世界失败！
+
+eaglercraft.singleplayer.busy.importing.1=正在以 EPK 格式导入世界
+eaglercraft.singleplayer.failed.importing.1=以 EPK 格式导入世界失败！
+
+eaglercraft.singleplayer.busy.importing.2=正在以原版格式导入世界
+eaglercraft.singleplayer.failed.importing.2=以原版格式导入世界失败！
+
+eaglercraft.singleplayer.busy.exporting.1=正在以 EPK 格式导出世界
+eaglercraft.singleplayer.failed.exporting.1=以 EPK 格式导出世界失败！
+
+eaglercraft.singleplayer.busy.exporting.2=正在以原版格式导出世界
+eaglercraft.singleplayer.failed.exporting.2=以原版格式导出世界失败！
+
+eaglercraft.singleplayer.busy.clearplayers=正在清除玩家数据
+eaglercraft.singleplayer.failed.clearplayers=清除玩家数据失败！
+
+eaglercraft.singleplayer.busy.startingIntegratedServer=正在启动内置服务器
+eaglercraft.singleplayer.failed.startingIntegratedServer=启动内置服务器失败！
+
+eaglercraft.singleplayer.busy.stoppingIntegratedServer=正在关闭内置服务器
+eaglercraft.singleplayer.failed.stoppingIntegratedServer=关闭内置服务器失败！
+
+eaglercraft.singleplayer.failed.serverCrash=内置服务器遇到异常！
+
+eaglercraft.singleplayer.failed.demo.title=无法启动演示世界
+eaglercraft.singleplayer.failed.demo.desc=启动内置服务器失败！
+
+eaglercraft.singleplayer.notSupported.title=此浏览器不支持共享世界！
+eaglercraft.singleplayer.notSupported.desc=不支持 WebRTC
+
+eaglercraft.singleplayer.import.title=导入世界
+eaglercraft.singleplayer.import.enterName=输入世界名称：
+eaglercraft.singleplayer.import.continue=继续
+eaglercraft.singleplayer.import.reading=正在读取：‘%s’
+eaglercraft.singleplayer.import.loadSpawnChunks=保持出生点区块加载：%s
+eaglercraft.singleplayer.import.enhancedGameRules=添加额外游戏特性：%s
+
+eaglercraft.singleplayer.create.title=你想做什么？
+eaglercraft.singleplayer.create.create=创建新世界
+eaglercraft.singleplayer.create.create.tooltip=为 eaglercraft 创建一个新世界
+eaglercraft.singleplayer.create.import=加载 EPK 文件
+eaglercraft.singleplayer.create.import.tooltip=加载一个 Eaglercraft .epk 世界文件
+eaglercraft.singleplayer.create.vanilla=导入原版世界
+eaglercraft.singleplayer.create.vanilla.tooltip=加载一个原版 Minecraft 1.8 世界
+
+eaglercraft.singleplayer.backup.title=世界备份菜单：‘%s’
+eaglercraft.singleplayer.backup.recreate=重新创建世界
+eaglercraft.singleplayer.backup.recreate.tooltip=使用相同的种子创建一个新世界
+eaglercraft.singleplayer.backup.seed=种子：
+eaglercraft.singleplayer.backup.duplicate=复制世界
+eaglercraft.singleplayer.backup.duplicate.tooltip=将此世界复制到一个新的存档
+eaglercraft.singleplayer.backup.export=导出 EPK 文件
+eaglercraft.singleplayer.backup.export.tooltip=下载此世界为压缩的 .epk 文件
+eaglercraft.singleplayer.backup.vanilla=转换为原版格式
+eaglercraft.singleplayer.backup.vanilla.tooltip=下载此世界为原版 1.8 世界格式
+eaglercraft.singleplayer.backup.clearPlayerData=删除玩家数据
+eaglercraft.singleplayer.backup.clearPlayerData.tooltip=清除除所有者外所有玩家的物品栏
+
+eaglercraft.singleplayer.backup.clearPlayerData.warning1=确定要删除所有玩家数据吗？
+eaglercraft.singleplayer.backup.clearPlayerData.warning2=“%s”世界中的所有玩家 (除了 %s) 将丢失他们的物品栏
+
+eaglercraft.singleplayer.ramdiskdetected.title=检测到工作线程问题
+eaglercraft.singleplayer.ramdiskdetected.text0=以“RAMDisk 模式”运行，世界无法保存！
+eaglercraft.singleplayer.ramdiskdetected.text1=单线程模式可能解决此问题
+eaglercraft.singleplayer.ramdiskdetected.continue=继续
+eaglercraft.singleplayer.ramdiskdetected.singleThreadCont=单线程模式
+
+eaglercraft.selectWorld.backup=备份
+
+eaglercraft.selectWorld.duplicate=复制世界：
+eaglercraft.selectWorld.duplicateButton=复制
+
+eaglercraft.selectWorld.ramdiskWarning=警告：以“RAMDisk 模式”运行，世界将不会保存到本地存储！
+
+eaglercraft.singleplayer.tpscounter.singleThreadMode=单线程模式
+
+eaglercraft.networkSettings.title=共享世界中继服务器
+eaglercraft.networkSettings.add=添加中继
+eaglercraft.networkSettings.delete=删除中继
+eaglercraft.networkSettings.default=设为主要
+eaglercraft.networkSettings.refresh=刷新
+eaglercraft.networkSettings.loadDefaults=加载默认
+eaglercraft.networkSettings.relayTimeout=连接超时：
+eaglercraft.networkSettings.relayTimeoutChange=更改
+eaglercraft.networkSettings.relayTimeoutTitle=更改连接超时时间
+eaglercraft.networkSettings.downloadRelay=下载 JAR
+
+eaglercraft.directConnect.prompt=您想做什么？
+eaglercraft.directConnect.lanWorld=加入共享世界
+eaglercraft.directConnect.lanWorldCode=输入加入代码：
+eaglercraft.directConnect.networkSettingsNote=点击“网络设置”添加中继 URL
+eaglercraft.directConnect.ipGrabNote=注意：世界所有者可以获取您的 IP 地址
+eaglercraft.directConnect.serverJoin=连接到服务器
+eaglercraft.directConnect.lanWorldJoin=加入世界
+eaglercraft.directConnect.lanWorldRelay=网络设置
+
+eaglercraft.lanInfo.title=共享世界信息
+eaglercraft.lanInfo.desc.0=Eaglercraft 共享世界不像原版局域网世界那样仅限于您的本地网络。这意味着任何有互联网连接并能连接到邀请中继的人，只要有代码，就可以加入您的世界。
+eaglercraft.lanInfo.desc.1=从 %s 屏幕加入共享世界，或者在游戏中通过 %s 按钮创建一个。
+
+eaglercraft.lanServer.legacyClient=请使用 EaglercraftX 1.8！
+
+eaglercraft.lanServer.pauseMenu0=正在共享世界
+eaglercraft.lanServer.pauseMenu1=中继 URL：
+eaglercraft.lanServer.pauseMenu2=加入代码：
+
+eaglercraft.lanServer.wouldYouLikeToKick=您想要踢出所有玩家吗？
+
+eaglercraft.lanServer.worldName=世界名称：
+eaglercraft.lanServer.hidden=隐藏：
+eaglercraft.lanServer.hideCode=隐藏详情
+eaglercraft.lanServer.showCode=显示详情
+eaglercraft.lanServer.opened=共享世界已在 $relay$ 开启，加入代码为 §a$code$
+eaglercraft.lanServer.closed=共享世界已关闭
+eaglercraft.lanServer.pleaseWait=请稍候...
+eaglercraft.lanServer.relayDisconnected=警告：与邀请中继的连接已断开，您必须重新共享世界才能邀请更多人
+eaglercraft.lanServer.ipGrabNote=注意：加入您世界的玩家可以获取您的 IP 地址
+
+eaglercraft.addRelay.title=添加新中继
+eaglercraft.addRelay.name=中继备注
+eaglercraft.addRelay.address=中继地址
+eaglercraft.addRelay.add=添加中继
+eaglercraft.addRelay.primary=设为主要
+eaglercraft.addRelay.removeText1=您想移除此中继吗？
+
+eaglercraft.noRelay.title=未配置任何中继！
+eaglercraft.noRelay.titleFail=没有可用的工作中继！
+eaglercraft.noRelay.noRelay1=共享世界不可用：未配置中继！
+eaglercraft.noRelay.noRelay2=点击“§n网络设置§r”修复
+eaglercraft.noRelay.worldNotFound1=找不到‘§c$code$§r’！
+eaglercraft.noRelay.worldNotFound2=请确保将‘§f$code$§r’世界的中继 URL 添加到
+eaglercraft.noRelay.worldNotFound3=中继列表“网络设置”中以进行连接
+eaglercraft.noRelay.worldFail=连接到‘$code$’失败！
+
+eaglercraft.singleplayer.demo.create.title=你想做什么？
+eaglercraft.singleplayer.demo.create.create=游玩演示世界
+eaglercraft.singleplayer.demo.create.create.tooltip=游玩 Minecraft 1.8 演示并邀请其他人
+eaglercraft.singleplayer.demo.create.join=加入共享世界
+eaglercraft.singleplayer.demo.create.join.tooltip=加入其他人的世界并玩多人游戏
+
+eaglercraft.createWorld.seedNote=注意：原版种子有效
+
+eaglercraft.singleplayer.oldseedwarning.title=检测到旧世界！
+eaglercraft.singleplayer.oldseedwarning.msg1=请使用 EaglercraftX u32 或更早版本来“重新创建”此世界
+eaglercraft.singleplayer.oldseedwarning.msg2=否则世界的种子将不会相同 :(
+eaglercraft.singleplayer.oldseedwarning.ok=好的
+
+eaglercraft.singleplayer.outdatedLANServerKick=这是一个 1.5.2 的局域网世界！
+
+eaglercraft.options.debugConsoleButton=打开调试控制台
+
+eaglercraft.tile.bed.setspawn=重生点已设置
+
+eaglercraft.update.button=检查更新：
+eaglercraft.update.none=没有可用的更新！
+eaglercraft.update.noneNew=未找到新更新
+eaglercraft.update.found=发现新的客户端更新
+eaglercraft.update.update=更新：
+eaglercraft.update.author=作者：
+eaglercraft.update.timestamp=时间戳：
+eaglercraft.update.size=大小 (kB)：
+eaglercraft.update.startDownload=下载
+eaglercraft.update.viewAll=查看全部 (%d)
+eaglercraft.update.dismiss=忽略
+eaglercraft.update.downloading=正在下载更新
+
+eaglercraft.update.downloadOffline=下载离线版
+eaglercraft.update.digitallySigned=数字签名 (%s)
+eaglercraft.update.signatureInvalid=签名无效！
+
+eaglercraft.updateList.title=可用版本
+eaglercraft.updateList.download=下载
+eaglercraft.updateList.refresh=刷新
+eaglercraft.updateList.note.0=注意：更新是经过数字签名的，EaglercraftX 将阻止任何
+eaglercraft.updateList.note.1=非 lax1dude 或 ayunami2000 创建的更新
+
+eaglercraft.updateSuccess.title=更新成功
+eaglercraft.updateSuccess.installToBootMenu=安装到启动菜单
+eaglercraft.updateSuccess.downloadOffline=下载离线版
+
+eaglercraft.updateSuccess.downloading=正在下载离线版...
+eaglercraft.updateSuccess.installing=正在安装客户端...
+
+eaglercraft.updateFailed.title=更新失败
+
+eaglercraft.installFailed.title=安装失败
+
+eaglercraft.updateInstall.title=安装到启动菜单
+eaglercraft.updateInstall.setDefault=设为默认
+eaglercraft.updateInstall.setCountdown=启用倒计时
+eaglercraft.updateInstall.install=安装
+
+eaglercraft.options.pressDeleteText=按 DEL 键进入启动菜单
+
+eaglercraft.enterBootMenu.title=进入启动菜单
+eaglercraft.enterBootMenu.text0=刷新页面以进入启动菜单
+
+eaglercraft.voice.title=语音频道
+eaglercraft.voice.titleNoVoice=此服务器上已禁用语音
+eaglercraft.voice.titleVoiceUnavailable=语音不可用
+eaglercraft.voice.titleVoiceBrowserError= (浏览器问题) 
+eaglercraft.voice.ptt=按“%s”说话
+eaglercraft.voice.pttChangeDesc= (按任意键) 
+eaglercraft.voice.changeKey=更改
+eaglercraft.voice.off=关
+eaglercraft.voice.radius=附近
+eaglercraft.voice.global=全局
+eaglercraft.voice.volumeTitle=更改音量
+eaglercraft.voice.volumeListen=扬声器音量：
+eaglercraft.voice.volumeSpeak=麦克风音量：
+eaglercraft.voice.radiusTitle=更改收听范围
+eaglercraft.voice.radiusLabel=范围内的玩家：
+eaglercraft.voice.radiusChange=更改
+eaglercraft.voice.notConnected=未连接
+eaglercraft.voice.connecting=正在连接...
+eaglercraft.voice.unavailable=无法连接！
+eaglercraft.voice.connectedGlobal=已连接 - 全局
+eaglercraft.voice.connectedRadius=已连接 - 范围 $radius$ 米内
+eaglercraft.voice.playersListening=正在收听的玩家：
+eaglercraft.voice.muted=已静音的玩家：
+eaglercraft.voice.unmute=取消静音
+eaglercraft.voice.mute=静音
+eaglercraft.voice.apply=应用
+eaglercraft.voice.volumeSpeakerLabel=扬声器：
+eaglercraft.voice.volumeMicrophoneLabel=麦克风：
+
+eaglercraft.voice.unsupportedWarning1=语音警告
+eaglercraft.voice.unsupportedWarning2=您的网络配置可能不支持
+eaglercraft.voice.unsupportedWarning3=eaglercraft 的语音聊天。
+eaglercraft.voice.unsupportedWarning4=语音聊天基于 WebRTC，通常是点对点的，
+eaglercraft.voice.unsupportedWarning5=如果您的防火墙阻止了点对点连接，
+eaglercraft.voice.unsupportedWarning6=则需要 TURN 服务器。
+eaglercraft.voice.unsupportedWarning7=默认的 OpenRelayProject TURN 服务器
+eaglercraft.voice.unsupportedWarning8=自 2024 年起已无法使用！
+
+eaglercraft.voice.unsupportedWarning10=继续
+eaglercraft.voice.unsupportedWarning11=取消
+
+eaglercraft.voice.ipGrabWarning1=IP 记录器警告
+eaglercraft.voice.ipGrabWarning2=使用 Eaglercraft 语音聊天可能会让服务器上
+eaglercraft.voice.ipGrabWarning3=其他同样使用语音的玩家记录您的 IP 地址。
+eaglercraft.voice.ipGrabWarning4=此问题将不会修复，这是浏览器的内部问题，
+eaglercraft.voice.ipGrabWarning5=并非游戏本身的错误。
+eaglercraft.voice.ipGrabWarning6=对此我们深感抱歉。
+
+eaglercraft.revokeSessionToken.button=撤销会话令牌
+eaglercraft.revokeSessionToken.title=选择要撤销的会话：
+eaglercraft.revokeSessionToken.inspect=检查
+eaglercraft.revokeSessionToken.revoke=撤销
+eaglercraft.revokeSessionToken.note.0=当您怀疑有人窃取了您的 Cookie 时，请使用此工具
+eaglercraft.revokeSessionToken.note.1=Eagler 将请求服务器使所有会话令牌失效
+
+eaglercraft.inspectSessionToken.title=Cookie 详情
+eaglercraft.inspectSessionToken.details.server=服务器地址：
+eaglercraft.inspectSessionToken.details.expires=过期时间：
+eaglercraft.inspectSessionToken.details.length=字节长度：
+
+eaglercraft.errorNoSessions.title=没有活跃的会话！
+eaglercraft.errorNoSessions.desc=没有可撤销的会话
+
+eaglercraft.revokeSendingScreen.title=正在撤销会话
+eaglercraft.revokeSendingScreen.message.opening=正在连接到 %s...
+eaglercraft.revokeSendingScreen.message.sending=正在发送请求...
+
+eaglercraft.revokeSuccess.title=撤销成功
+eaglercraft.revokeSuccess.desc=会话已成功撤销！
+
+eaglercraft.revokeFailure.title=撤销失败
+eaglercraft.revokeFailure.desc.notSupported=服务器不支持此功能！
+eaglercraft.revokeFailure.desc.notAllowed=服务器不允许撤销此令牌！
+eaglercraft.revokeFailure.desc.notFound=服务器上未找到此会话！
+eaglercraft.revokeFailure.desc.serverError=服务器内部错误！
+eaglercraft.revokeFailure.desc.clientError=处理服务器响应时出错！
+eaglercraft.revokeFailure.desc.genericCode=收到错误代码！ (检查控制台) 
+eaglercraft.revokeFailure.desc.connectionError=无法连接到服务器！
+eaglercraft.revokeFailure.desc.cancelled=连接已关闭
+
+eaglercraft.recieveServerInfo.title=正在获取服务器信息
+eaglercraft.recieveServerInfo.checkingCache=检查缓存
+eaglercraft.recieveServerInfo.contactingServer=正在联系服务器
+eaglercraft.recieveServerInfo.recievingData=正在接收数据
+eaglercraft.recieveServerInfo.decompressing=正在解压 + 验证
+
+eaglercraft.serverInfoFailure.title=获取失败
+eaglercraft.serverInfoFailure.desc=获取服务器信息失败！
+
+eaglercraft.webviewNotSupported.title=WebView 错误
+eaglercraft.webviewNotSupported.desc=此平台不支持 WebView！
+
+eaglercraft.webviewInvalidURL.title=WebView 错误
+eaglercraft.webviewInvalidURL.desc=服务器提供了无效的 URL！
+
+eaglercraft.fallbackWebViewScreen.text0=在您的浏览器中查看：
+eaglercraft.fallbackWebViewScreen.startingUp=正在启动...
+eaglercraft.fallbackWebViewScreen.pleaseWait=请稍候...
+eaglercraft.fallbackWebViewScreen.exited= (已退出) 
+eaglercraft.fallbackWebViewScreen.openButton=打开
+eaglercraft.fallbackWebViewScreen.exitButton=退出
+
+eaglercraft.webviewPhishingWarning.title=警告！！！
+eaglercraft.webviewPhishingWarning.text0=如果您看到登录页面，请在输入密码前三思
+eaglercraft.webviewPhishingWarning.text1=此服务器或网站的运营者可能会窃取密码
+eaglercraft.webviewPhishingWarning.text2=不要登录您不希望被黑客窃取的账户
+eaglercraft.webviewPhishingWarning.dontShowAgain=不再显示此消息
+eaglercraft.webviewPhishingWarning.continue=继续
+
+eaglercraft.webviewDisplayWarning.title=WebView 警告
+eaglercraft.webviewDisplayWarning.text0=此服务器尝试显示 HTML 内容
+eaglercraft.webviewDisplayWarning.text1=是否继续？
+
+eaglercraft.notifications.title=通知
+eaglercraft.notifications.priority=优先级：%s
+eaglercraft.notifications.priority.low=全部
+eaglercraft.notifications.priority.normal=信息
+eaglercraft.notifications.priority.higher=警告
+eaglercraft.notifications.priority.highest=严重
+eaglercraft.notifications.clearAll=全部清除
+
+eaglercraft.options.touchControlOpacity=触控控制不透明度
+
+eaglercraft.options.profanityFilterButton=不当语言过滤器
+
+eaglercraft.profanityFilterWarning.title=内容警告
+eaglercraft.profanityFilterWarning.text0=如果您正在 Twitch 上直播此游戏，
+eaglercraft.profanityFilterWarning.text1=或者您的年龄小于 14 岁，请在玩多人游戏前
+eaglercraft.profanityFilterWarning.text2=启用不当语言过滤器
+eaglercraft.profanityFilterWarning.text4= (在“选项”->“聊天设置”菜单中禁用) 
+
+eaglercraft.options.screenRecording.unsupported=不支持录制！
+eaglercraft.options.screenRecording.button=录制屏幕...
+
+eaglercraft.options.screenRecording.title=屏幕录制
+eaglercraft.options.screenRecording.codec=输出格式：%s
+eaglercraft.options.screenRecording.codecButton=更改...
+eaglercraft.options.screenRecording.start=开始录制
+eaglercraft.options.screenRecording.stop=停止录制
+eaglercraft.options.screenRecording.status=状态：%s
+eaglercraft.options.screenRecording.status.0=未录制
+eaglercraft.options.screenRecording.status.1=录制中！
+eaglercraft.options.screenRecording.audioBitrate=音频比特率
+eaglercraft.options.screenRecording.videoBitrate=视频比特率
+eaglercraft.options.screenRecording.videoResolution=视频分辨率
+eaglercraft.options.screenRecording.microphoneVolume=麦克风音量
+eaglercraft.options.screenRecording.gameVolume=游戏音量
+eaglercraft.options.screenRecording.videoFPS=视频帧率
+eaglercraft.options.screenRecording.onVSync=垂直同步
+eaglercraft.options.screenRecording.failed=开始录制失败！
+
+eaglercraft.options.recordingCodec.title=选择编解码器
+eaglercraft.options.recordingCodec.showAdvancedCodecs=显示高级：%s
+
+eaglercraft.options.recordingNote.title=录制说明
+eaglercraft.options.recordingNote.text0=如果录制的视频无法播放，
+eaglercraft.options.recordingNote.text1=请在浏览器中尝试打开该文件
+
+eaglercraft.touch.interact.entity=交互
+
+eaglercraft.options.badVideoSettingsDetected.title=检测到问题
+eaglercraft.options.badVideoSettingsDetected.0=您的某些视频设置可能导致
+eaglercraft.options.badVideoSettingsDetected.1=游戏严重卡顿
+eaglercraft.options.badVideoSettingsDetected.vsync.0=垂直同步已禁用，这可能导致输入延迟
+eaglercraft.options.badVideoSettingsDetected.renderDistance.0=渲染距离为 %d 区块，大多数设备在
+eaglercraft.options.badVideoSettingsDetected.renderDistance.1=渲染距离大于 4 个区块时会卡顿
+eaglercraft.options.badVideoSettingsDetected.renderDistance.2=大于 4 区块时会卡顿
+eaglercraft.options.badVideoSettingsDetected.frameLimit.0=帧率限制设为 %d
+eaglercraft.options.badVideoSettingsDetected.fixSettings=修复设置
+eaglercraft.options.badVideoSettingsDetected.continueAnyway=仍然继续
+eaglercraft.options.badVideoSettingsDetected.doNotShowAgain=不再显示
+
+eaglercraft.options.vsyncReEnabled.title=检测到问题
+eaglercraft.options.vsyncReEnabled.0=您正在使用 WASM-GC 客户端
+eaglercraft.options.vsyncReEnabled.1=已自动重新启用垂直同步
+eaglercraft.options.vsyncReEnabled.2=使用 WASM-GC 版本的 EaglercraftX 时，
+eaglercraft.options.vsyncReEnabled.3=如果不启用垂直同步，会导致严重的输入延迟，抱歉！
+eaglercraft.options.vsyncReEnabled.continue=继续
+
+eaglercraft.options.connectedTexturesOF=连接纹理
+eaglercraft.options.betterGrassOF=更好的草地/雪地
+eaglercraft.options.customSkiesOF=自定义天空
+eaglercraft.options.smartLeavesOF=智能树叶
+eaglercraft.options.customItemsOF=自定义物品
+
+eaglercraft.addServer.hideAddr=隐藏地址
+eaglercraft.addServer.enableCookies=Cookie
+eaglercraft.addServer.enableCookies.enabled=已启用
+eaglercraft.addServer.enableCookies.disabled=已禁用
+lanServer.title=共享世界
+lanServer.start=开启共享世界
+options.skinCustomisation.enableFNAWSkins=显示 FNAW 皮肤
+options.entityShadows=启用实体阴影
+resourcePack.openFolder=打开资源包文件
+resourcePack.folderInfo= (在此处选择资源包文件) 
