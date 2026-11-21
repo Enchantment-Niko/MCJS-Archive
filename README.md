@@ -152,8 +152,8 @@ MCJS-Archive/
 2023 - 完全修复，游戏已还原
 - Made by Github@Enchantment-Niko
 
-2025 - 工作中
-- 仅恢复基本 2025 index页面，后续可能不再更新
+2025 - 80% 完成
+- 仅恢复基本 2025 index页面，游玩链接均改为 MCJS.Link 的站点
 
 ## 修复内容
 
